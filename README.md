@@ -1,2 +1,1 @@
-# machine_learning_project
-Creating a movie recommender with machine learning (Python / scikit-Learn / interface : streamlit).
+Hackathon Wild Code School 2021 (first prize): create a movie recommender (Python / scikit-Learn / streamlit).
